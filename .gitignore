@@ -14,3 +14,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+log/return_authorization*
+log/tax_svc*
+log/avalara_order*
+log/post_order_to_avalara*
