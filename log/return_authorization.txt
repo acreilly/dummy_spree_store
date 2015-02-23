@@ -1,0 +1,8 @@
+# Logfile created on 2015-02-23 13:30:12 -0500 by logger.rb/44203
+I, [2015-02-23T13:30:12.668884 #5241]  INFO -- return_authorization class: start ReturnAuthorization processing
+I, [2015-02-23T13:30:24.933619 #5253]  INFO -- return_authorization class: start ReturnAuthorization processing
+I, [2015-02-23T13:30:44.019527 #5265]  INFO -- return_authorization class: start ReturnAuthorization processing
+I, [2015-02-23T13:30:53.190267 #5271]  INFO -- return_authorization class: start ReturnAuthorization processing
+I, [2015-02-23T13:30:59.677230 #5281]  INFO -- return_authorization class: start ReturnAuthorization processing
+I, [2015-02-23T13:31:22.119305 #5292]  INFO -- return_authorization class: start ReturnAuthorization processing
+I, [2015-02-23T13:31:47.173912 #5323]  INFO -- return_authorization class: start ReturnAuthorization processing
